@@ -215,3 +215,14 @@ html{
     color: var(--primary-color);
 }
 
+@media screen and (max-width:739px) {
+    .dashboard .tool .volume{
+        right: 25px;
+        bottom: 67px;
+    }
+    .dashboard .tool .set-volume{
+        width: 68px;
+        right: -22px;
+        bottom: 50px;
+    }
+}
