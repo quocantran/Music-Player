@@ -27,7 +27,7 @@ const app = {
             name : "Em của ngày hôm qua",
             author : "Sơn Tùng MTP",
             path : "./Assest/Music/Em-Cua-Ngay-Hom-Qua-Son-Tung-M-TP.mp3",
-            image : "https://bookkol.com/wp-content/uploads/2022/12/son-tung-mtp.jpg"
+            image : "https://phunuvietnam.mediacdn.vn/179072216278405120/2023/2/22/2896938215820159432808032102006602626651935n-1677062931040801469308.jpg"
     
     
         },
