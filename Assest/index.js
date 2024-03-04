@@ -286,9 +286,6 @@ const app = {
                 }
                 
             }
-            if(e.target.closest('.option')){
-                
-            }
         }
         // volume handle change
         volumeBtn.onclick = ()=>{
@@ -305,7 +302,7 @@ const app = {
             const volumeValue = e.target.value;
             audio.volume = volumeValue;
         }
-        // blur out the volume
+        // blur volume
         document.addEventListener('click',(e)=>{
             if(!volumeBtn.contains(e.target)){
                 app.isShowed = false;
